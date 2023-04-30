@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/navigation"
     app:startDestination="@id/AFragment">
+
     <fragment
         android:id="@+id/AFragment"
         android:name="com.example.jetbacknavigation.AFragment"
